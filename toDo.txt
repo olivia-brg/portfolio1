@@ -1,0 +1,12 @@
+photo position centrée sur les yeux
+
+ombre navbar en pourcentage?
+
+taille title a adaptée
+hauteur text a réduire
+
+a propos a étoffer avec mon passé
+
+largeur main mini
+
+taille de texte minimum (affichage verticale trop petit = lié taille mini et vh?)

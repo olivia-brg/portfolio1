@@ -1,4 +1,4 @@
 export function displaySkills() {
-    document.getElementById("content").innerHTML = `<h2>Skills</h2>
-                                                    <p>Some text</p>`
+    document.getElementById("title").innerHTML = `<h1>Skills</h1>`
+    document.getElementById("text").innerHTML = `<p>Some text</p>`
 }

@@ -1,4 +1,4 @@
 export function displayHomepage() {
-    document.getElementById("content").innerHTML = `<h1>Olivia<br>Bergaglia</h1>
-                                                    <h2>Dev student</h2>`
+    document.getElementById("title").innerHTML = `<h1>BERGAGLIA<br>Olivia</h1>`
+    document.getElementById("text").innerHTML = `<h2>Dev student</h2>`
 }

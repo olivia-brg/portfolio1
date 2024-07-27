@@ -1,4 +1,4 @@
 export function displayCV() {
-    document.getElementById("content").innerHTML = `<h2>CV</h2>
-                                                    <p>Some text</p>`
+    document.getElementById("title").innerHTML = `<h1>CV</h1>`
+    document.getElementById("text").innerHTML = `<p>Some text</p>`
 }
